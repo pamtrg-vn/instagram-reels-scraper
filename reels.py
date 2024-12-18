@@ -14,7 +14,7 @@ class IGNetWorkException(Exception):
 # Constants class for storing URLs
 class Contanst:
     BASE_URL = "https://www.instagram.com/"
-    API_URL = "https://www.instagram.com/api/v1/"
+    API_URL = "https://i.instagram.com/api/v1/"
 
 # Class for handling network requests to Instagram
 class IGNetWork:
